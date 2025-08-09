@@ -1,0 +1,41 @@
+.theme-picker {
+  display: flex;
+  justify-content: space-between;
+  /* Left text, right buttons */
+  align-items: center;
+  padding: 5px 0;
+}
+
+.creator {
+  font-size: 14px;
+  color: var(--text-color);
+  padding-inline: 10px;
+
+  a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: bold;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: var(--text-color);
+  background-color: transparent;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}

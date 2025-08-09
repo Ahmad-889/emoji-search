@@ -1,12 +1,11 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import { EmojiSearchComponent } from './components/emoji-search/emoji-search.component';
+import { ThemePickerComponent } from './components/theme-picker/theme-picker.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [EmojiSearchComponent, ThemePickerComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+  styleUrl: './app.component.scss',
 })
-export class AppComponent {
-  title = 'emoji-search';
-}
+export class AppComponent {}
