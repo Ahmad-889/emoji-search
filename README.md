@@ -2,6 +2,8 @@
 
 A fast, clean, and responsive emoji search application built using **Angular 19**, **SCSS**, and a **service-driven architecture**. Includes category-based filtering, instant search, and a clipboard copy feature — plus a **light/dark theme picker**.
 
+
+
 ---
 
 ## 🌐 Live Demo
