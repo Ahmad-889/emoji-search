@@ -2,17 +2,17 @@
 
 A fast, clean, and responsive emoji search application built using **Angular 19**, **SCSS**, and a **service-driven architecture**. Includes category-based filtering, instant search, and a clipboard copy feature — plus a **light/dark theme picker**.
 
-
-
 ---
 
 ## 🌐 Live Demo
 
 👉 [Click here to use the app](https://ahmad-889.github.io/emoji-search/)
 
+
 ---
 
 ## 🎯 What I Built
+
 
 This application is structured with **standalone components** for maintainability and scalability.  
 Here’s what’s inside:
@@ -32,6 +32,7 @@ Here’s what’s inside:
 * 🎨 **Light/Dark theme toggle** for personalized UI  
 * 📱 Fully responsive design  
 * ⚡ Fast performance with local JSON data source  
+
 
 ---
 
@@ -93,3 +94,5 @@ Visit `http://localhost:4200` to see the custom directives in action.
 ## 🔗 Author
 Made with ❤️ by
 Muhammad Ahmad
+
+
