@@ -8,11 +8,9 @@ A fast, clean, and responsive emoji search application built using **Angular 19*
 
 👉 [Click here to use the app](https://ahmad-889.github.io/emoji-search/)
 
-
 ---
 
 ## 🎯 What I Built
-
 
 This application is structured with **standalone components** for maintainability and scalability.  
 Here’s what’s inside:
@@ -32,8 +30,6 @@ Here’s what’s inside:
 * 🎨 **Light/Dark theme toggle** for personalized UI  
 * 📱 Fully responsive design  
 * ⚡ Fast performance with local JSON data source  
-
-
 ---
 
 ## 🧱 Technologies Used
@@ -70,8 +66,8 @@ src/
 │ └── emoji.service.ts              # Emoji data service
 └── models/
 └── emoji.model.ts                  # Emoji interface
-```
 
+```
 ## 🚀 Running the Project
 
 Install Angular CLI if you haven't:
@@ -94,5 +90,3 @@ Visit `http://localhost:4200` to see the custom directives in action.
 ## 🔗 Author
 Made with ❤️ by
 Muhammad Ahmad
-
-
