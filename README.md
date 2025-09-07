@@ -29,7 +29,8 @@ Here’s what’s inside:
 * 📋 **Copy emoji** to clipboard with one click  
 * 🎨 **Light/Dark theme toggle** for personalized UI  
 * 📱 Fully responsive design  
-* ⚡ Fast performance with local JSON data source  
+* ⚡ Fast performance with local JSON data source 
+ 
 ---
 
 ## 🧱 Technologies Used
@@ -51,6 +52,7 @@ Here’s what’s inside:
 ## 📁 Project Structure
 
 ```
+
 src/
 └── app/
 ├── components/
@@ -73,14 +75,18 @@ src/
 Install Angular CLI if you haven't:
 
 ```bash
+
 npm install -g @angular/cli
+
 ```
 
 Install dependencies and serve:
 
 ```bash
+
 npm install
 ng serve
+
 ```
 
 Visit `http://localhost:4200` to see the custom directives in action.
@@ -90,3 +96,6 @@ Visit `http://localhost:4200` to see the custom directives in action.
 ## 🔗 Author
 Made with ❤️ by
 Muhammad Ahmad
+
+
+
